@@ -9,3 +9,13 @@ Thursday 02/24/2022.
 5:51AM - I've fallen in love with Regular Expressions, It's like decrypting the thing you want to find or validate, it's really easy to understand the basics and really complex to put it all together. I really want to understand more about this topic, maybe in the future I'll be the RegEx hero the course was talking about.
 
 In a side note, and after I've completed the little course, I'm going to a well deserved night sleep. I hope to get right into Javascript tomorrow.
+
+4:20PM - I woke up at 3PM and got something to eat. Now, with my stomach full and with great curiosity of what will the Javascript course teach me, I began studying. It's a 20 hour course taking into account the quizzes that you can only do with the Pro membership, so it will certainly take me less than 20 hours, nevertheless I look foward to get into it!
+
+4:52PM - Finished the first lesson, I'll be taking a moment to analyze and let the new information sink in. The thing that I <em>accidentally</em> learned is the importance of having the mentality to search for the methods that will make my coding easier, instead of brute forcing everything into inefficient algorithms.
+
+5:30PM - I have bad news, My mother has covid and it seems like I have it too, my head hurts a lot, I'm exhausted although I didn't do anything yet and my thoughts are mostly about how my head hurts. Maybe I've done enough for today, so I'll make a quick summary and go to bed.
+
+I've started and completed the full HTML course from the very beginning, learned Semantic HTML and the use of forms to get data from users. I've completed the Regular Expressions course too, and fallen in love with it. and I've started the javascript course, learned the basics of javascript a second time and discovered that searching for already done methods is a lot better than brute forcing algorithms. I'm super happy of what I've accomplished today, I'm in my journey to beat my depression and this is a really good step foward, and studying something I'm passionate about is really helping me to get out of bed and learn.
+
+5:42PM - with the quick summary done, I'll be taking the rest of the day for myself. Thank you for reading!.
