@@ -1,0 +1,11 @@
+Thursday 02/24/2022.
+
+1:30AM - Although I already know basic HTML, I think it'd be best if I review everything from the basics, learn HTML from scratch with the help of the course from CodeAcademy. I Don't think I'll be getting the certificate, as it needs to be paid for with the "Pro" membership and I'm on a nonexistant budget. But! I'm not doing this because of the certificate, I'm doing this because I like programming, and it's really helpful to have something to guide you.
+
+4:31AM - I've completed the course from beginning to end and learned a lot more than I thought, I learned the value of Semantic HTML and how it helps to get traffic onto your website, also I learned how to make a form that'll take data input from the user to the websites storage and how to verify that input in the spot with Regex, or Regular Expressions, which coincidentally I've found a course in the same website about it and I'll be taking it, it seems short so I'll try it before I go to sleep. When I wake up, I'm looking foward to learning Css and Javascript. With those two I'll have all the basics needed to learn Front End, and maybe some Back End. My objective with this is having the certificate of Full Stack Web Developer and start working with my brother while I throw my CV at google. I'd love to work for them.
+
+5:27AM - After a short recess, I'll begin with the Regular Expressions course.
+
+5:51AM - I've fallen in love with Regular Expressions, It's like decrypting the thing you want to find or validate, it's really easy to understand the basics and really complex to put it all together. I really want to understand more about this topic, maybe in the future I'll be the RegEx hero the course was talking about.
+
+In a side note, and after I've completed the little course, I'm going to a well deserved night sleep. I hope to get right into Javascript tomorrow.
