@@ -9,4 +9,4 @@ To-do List:
 - Learn Javascript & Css
 - Pay a subscription to Coursera so I can get the certificates.
 - Take the course of Front End, Back End and Full Stack Web Dev.
-- Search in Coursera for Data Science, Data Encryption and other courses I might be interested in
+- Search in Coursera for Data Science, Data Encryption and other courses I might be interested in.
