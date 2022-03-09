@@ -1,0 +1,9 @@
+Wednesday 03/09/2022
+
+I'll make a quick summary of what i did in the last two weeks, without time frame. I find that putting time frames distracts me and makes my learning experience worse and more exhausting.
+
+Talking to some friends and family I've noticed that they struggled a lot with their study, they grew tired of the tight education system and I wanted to help them understand that they didn't need to force themselves to be there and that you can be just as successful being self-taught, by using the world wide web to their favour, and thinking critically. so, I dedicated the last two weeks to create a whole word document on my drive organizing and describing a lot of links with free courses on different topics, github repositories, links that help you get study material like books or official research papers, tools that can help you work faster and easier, and some LinkedIn-like apps to fasten the job hunting part.
+
+Still, I didn't want to lose a lot of time nor forget what i've been studying, so every time i had the chance, I did a few of the challenges on www.freecodecamp.org. Today I've completed the first 3 categories on the "JavaScript Algorithms and Data Structures" course, Basic JavaScript, ES6 and Regular Expressions. Tomorrow I'm hoping to finish Debugging and Basic Data Structures as they're two rather simple concepts.
+
+Lastly, I've found www.leetcode.com, which is a website that lets you learn different topics and make different Interview problems to practice, so I'll be exploring the website trying to judge my own knowledge and see what am I missing.
