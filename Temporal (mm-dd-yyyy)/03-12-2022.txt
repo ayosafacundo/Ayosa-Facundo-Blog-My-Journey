@@ -1,0 +1,5 @@
+Saturday 03/12/2022
+
+Yesterday I finished Debugging, Basic Data Structures and Basic Algorithm Scripting. That last one was the most frustrating to be honest, as it needed creative thinking and avoiding common sense solutions as they were really slow. Until Monday I'll be trying to finish the "JavaScript Algorithms and Data Structures" course, as I'll be occupied with personal stuff from Monday to Friday hopefully.
+
+Also, I added a "Proyects" folder, on which I'll be doing stuff for fun telling my experience, sources of information and why I've decided to make that specific proyect.

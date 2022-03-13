@@ -15,23 +15,28 @@ To-do List:
 
 
 Interests:
-- Data Science
-- Data Visualization
-- Cybersecurity
-- Javascript
-    - Front End
-    - Back End
-    - Typescript
-    - Node.js
-    - React
-    - Websockets
-- SQL
-- Python
-    - Scientific Computing
-    - Data Analysis
-    - Machine Learning
-- Math
-    - Calculus
-    - Algebra
-    - Discrete Math
-    - Probability
+Proffessional Interests{
+    - Data Science
+    - Data Visualization
+    - Cybersecurity
+    - Javascript
+        - Front End
+        - Back End
+        - Typescript
+        - Node.js
+        - React
+        - Websockets
+    - SQL
+    - Python
+        - Scientific Computing
+        - Data Analysis
+        - Machine Learning
+    - Math
+        - Calculus
+        - Algebra
+        - Discrete Math
+        - Probability
+}
+Personal Interests {
+    
+}
