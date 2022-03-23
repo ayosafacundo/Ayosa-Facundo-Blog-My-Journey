@@ -1,0 +1,5 @@
+Wednesday 03/23/2022
+
+Learned a lot about Discord Bot Creation with Autocode, created a discord bot and made a lot of personalized commands to it, learned to work with the Discord Api and Google Spreadsheet's Api, and mostly made a big useful-for-everything bot for a server with friends.
+
+I went out of my way to learn this skills because I knew that I'll need the experience to work with Apis in the future, and also because I wanted to make something I could make some money out of.
