@@ -1,0 +1,70 @@
+html {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    color: #0a0a23;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+}
+@media (min-width: 300px){
+    /* NAVBAR */
+    .navbar {
+        position: fixed;
+        display: flex;
+        flex-direction: column;
+        min-width: 300px;
+        max-width: 300px;
+        height: 100%;
+        border-right: solid rgba(0, 22, 22, 0.4) 3px;
+    }
+    .navbar header {
+        padding: 20px;
+        font-size: 1.8em;
+        border-bottom: solid rgba(0, 22, 22, 0.4) 3px;
+    }
+    .nav {
+        list-style-type: none;
+        padding: 0px;
+        margin: 0px;
+        width: 100%;
+    }
+    .nav li {
+        padding: 17px;
+        border-bottom: solid black 1px;
+    }
+    .nav-link {
+        text-decoration: none;
+        color: #0a0a23;
+    }
+    .nav-link :hover {
+        background-color: rgba(22, 22, 22, 0.4);
+    }
+    .navbar footer {
+        padding: 20px;
+        font-size: 1em;
+    }
+
+
+    /* MAIN DOCUMENT */
+    #main-doc {
+        margin-left: 310px;
+        padding: 20px;
+    }
+    .main-section header{
+        font-size: 1.3em;
+    }
+    .main-section article {
+        margin: 15px;
+        font-size: 0.96em;
+    }
+    .main-section article pre code {
+        margin-left: 10px;
+        padding: 10px;
+        display: block;
+        width: fit-content;
+        background-color: rgba(0, 0, 0, 0.1);
+        border-radius: 4px;
+    }
+}
