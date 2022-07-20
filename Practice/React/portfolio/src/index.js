@@ -1,14 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
-import Main from './Main.js'
+import NavBar from './components/NavBar/NavBar.js';
+import Main from './components/Main/Main.js';
 import reportWebVitals from './reportWebVitals';
-
+/*
+import Card from './components/Cards/Cards';
+<Card title="AA" origin="Origin" description="Desc" image="#" badges={["#","#"]} />
+*/
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <NavBar />
     <Main />
   </React.StrictMode>
 );
