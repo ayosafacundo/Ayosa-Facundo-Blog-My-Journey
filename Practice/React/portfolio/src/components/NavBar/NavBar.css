@@ -1,15 +1,3 @@
-:root {
-  --main-white: #EEEEEE; /* Light mode: Background color, Dark mode: Font color */
-  --main-dark: #393E46; /* Dark mode: Background color, Light mode: Font color */
-  --darker-dark: #222831; /* dunno */
-  --accent-color: #FFD369; /* Titles, buttons */
-  --alternative-accent: #45567d;
-}
-html {
-  box-sizing: border-box;
-  font-family: 'Raleway', sans-serif;
-}
-
 /* mini fixes */
 .no-margin {
   margin: 0px;

@@ -70,12 +70,19 @@ section {
   .contact-card {
     display: flex;
     flex-direction: row;
+    text-decoration: none;
     padding: 15px;
     margin: 0px 5px 0px 5px;
     font-size: 2rem;
     color: var(--main-white);
+    transition: color 0.5s, background-color 0.5s, border-radius 0.5s, box-shadow 0.5s;
+  }
+  .contact-card img {
+    margin-right: 5px;
   }
   .contact-card:hover {
     color: var(--accent-color);
     background-color: var(--alternative-accent);
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   }
